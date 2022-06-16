@@ -6,12 +6,12 @@ O nosso site contem banners e sliders feitos com Bootstrap e Fancybox. Videos. A
 
 Contribuintes do projeto:
 
-Júlio Cézar (JuliusCaesaar): Todo o Backend (Javascript, plugins, scripts...) e melhorias no front-end utilizando-se dos plugins.
+Júlio Cézar (JuliusCaesaar): Todo o Backend (Javascript, plugins, scripts...) e melhorias no front-end utilizando-se dos plugins;
 
-Georgene Estevam (Georgene-Estevam): Front-end (Basicamente todo o alfa do projeto e as ideias iniciais)
+Georgene Estevam (Georgene-Estevam): Front-end (Basicamente todo o alfa do projeto e as ideias iniciais);
 
-Elliel Alves (Kardo123): Front-End (Portfólios, atualização da sessão de grupo)
+Elliel Alves (Kardo123): Front-End (Portfólios, atualização da sessão de grupo);
 
-Guilherme Rafael (guixtk6): Front End e bugfixing (Portólios, atualização da sessão do grupo, correção de bugs, correção de imagens)
+Guilherme Rafael (guixtk6): Front End e bugfixing (Portfólios, atualização da sessão do grupo, correção de bugs);
 
-João Victor (JoaoVictor992): Front End (Portfólios, atualização da sessão de grupo)
+João Victor (JoaoVictor992): Front End (Portfólios, atualização da sessão de grupo).
