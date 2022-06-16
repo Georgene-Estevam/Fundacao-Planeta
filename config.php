@@ -1,7 +1,7 @@
 <?php
     $dbhost='localhost';
 	//$port=3306 porta de uso padrão;
-    //$port=3312 porém estou utilizando em meu PC a porta 3312;
+    //$port=3312 porém estou utilizando em meu computador a porta 3312 devido alguns problemas que tive;
 	$dbUser='root';
 	$password=''; //Inserir uma senha caso o banco de dados tenha alguma.
 	$dbname='fundacao_planeta';
@@ -21,13 +21,4 @@
 		-Para verificar se o código abaixo está funcionando é necessário 
 		abrir o navegador e digitar o link abaixo:
 			http://localhost/fundacao_planeta/config.php
-
-	Início do código 
-    if($conexao->connect_errno){
-        echo "Erro na conexão";
-    }
-    else {
-        echo "Conexão efetuada com sucesso!";
-    }*/
-
 ?>
