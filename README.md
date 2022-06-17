@@ -8,7 +8,7 @@ Contribuintes do projeto:
 
 Júlio Cézar (JuliusCaesaar): Todo o Backend (Javascript, plugins, scripts...) e melhorias no front-end utilizando-se dos plugins;
 
-Georgene Estevam (Georgene-Estevam): Front-end (Basicamente todo o alfa do projeto e as ideias iniciais);
+Georgene Estevam (Georgene-Estevam): Front-end (Basicamente todo o alfa do projeto e as ideias iniciais, e desenvolvendo a conexão com o banco de dados utilizando a linguagem php);
 
 Elliel Alves (Kardo123): Front-End (Portfólios, atualização da sessão de grupo);
 
